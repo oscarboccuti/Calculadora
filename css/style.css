@@ -5,6 +5,10 @@
     font-family: sans-serif;
 }
 
+html, body {
+    touch-action: manipulation;
+}
+
 body {
     min-height: 100vh;
     background-color: #3A1078;
